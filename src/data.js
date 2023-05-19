@@ -48,7 +48,7 @@ export const tours = [
     title: "Tibet Adventure",
     info: "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumquevitae tempore voluptatum maxime reprehenderit eum quod",
     location: "china",
-    duration: 6,
+    duration: " 6 days",
     cost: 2100,
   },
   {
@@ -58,7 +58,7 @@ export const tours = [
     title: "best of java",
     info: "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumquevitae tempore voluptatum maxime reprehenderit eum quod",
     location: "indonesia",
-    duration: 11,
+    duration: " 11 days",
     cost: 1400,
   },
   {
@@ -68,7 +68,7 @@ export const tours = [
     title: "explore hong kong",
     info: "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumquevitae tempore voluptatum maxime reprehenderit eum quod",
     location: "hong kong",
-    duration: 8,
+    duration: "8 days",
     cost: 5000,
   },
   {
@@ -78,7 +78,7 @@ export const tours = [
     title: "kenya highlights",
     info: "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumquevitae tempore voluptatum maxime reprehenderit eum quod",
     location: "kenya",
-    duration: 20,
+    duration: " 20 days",
     cost: 3300,
   },
 ];
